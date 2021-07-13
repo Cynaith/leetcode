@@ -43,7 +43,7 @@ import java.util.Arrays;
 import java.util.List;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution15 {
     public List<List<Integer>> threeSum(int[] nums) {
         int length = nums.length;
         Arrays.sort(nums);
